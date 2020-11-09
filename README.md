@@ -9,4 +9,4 @@ Adding my first proper web page marking up some plain text with HTML5
 
 History of Type
 ===============
-[Verionn 1]( https://caragreene.github.io/john-baskerville/)
+[Verion 1]( https://caragreene.github.io/john-baskerville/)
