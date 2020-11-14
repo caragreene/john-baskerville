@@ -4,7 +4,7 @@ John Baskerville
 *02 November 2020*
 Adding my first proper web page marking up some plain text with HTML5
 
-[Version 2] (https://caragreene.github.io/john_baskervilleversion2.html)
+[Version 2](https://caragreene.github.io/john_baskervilleversion2.html)
 *09  November 2020*
 Adding new Baskerville file and applied my first CSS styling.
 
