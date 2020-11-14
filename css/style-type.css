@@ -46,7 +46,7 @@ blockquote {
    font-size: 1.414em;
    hanging-punctuation: first;
    text-indent: -0.44em;
-   color:  #8F0040;
+   color:  #F09934;
 }
 
 blockquote cite {
@@ -95,7 +95,7 @@ nav {
     left: 0;
     margin: 0;
     width: 100%;
-    background-color: #8F0040;
+    background-color: #7BC8F5;
     padding: .5em 0;
     font-size: 0.75em;
     box-shadow: 0 0 10px 0 black;
@@ -114,11 +114,11 @@ nav ul li {
 }
 
 nav a:link {
-    color: #fafafa;
+    color: #446FF2;
 }
 
 nav a:visited {
-    color: #fafafa;
+    color: #446FF2;
 }
 
 nav a:hover {
@@ -129,7 +129,7 @@ nav a:hover {
 
 .baskerville {
     background: #333;
-    color: #fafafa;
+    color: #446FF2;
     padding: 2em 0;
 }
 
@@ -155,7 +155,7 @@ caption {
 }
 
 th {
-    color: #fafafa;
+    color: #446FF2;
     text-transform: uppercase;
     font-weight: normal;
     text-align: left;
@@ -167,7 +167,7 @@ th, td {
 
 table, td   {
     background: rgb(212, 222, 164);
-    border: 1px solid #fafafa
+    border: 1px solid #F09934
 }
 
 /*-------------- IMAGES -----------------*/
