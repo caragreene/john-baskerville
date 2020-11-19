@@ -35,8 +35,8 @@ h1 {
 }
 
 h2 {
-    font-size: 1.999em;
-    margin: 3em 0 1em 0;
+ font-size: 1.999em;
+ margin: 3em 0 1em 0;
 }
 
 blockquote {
@@ -63,9 +63,9 @@ header p {
 
 /*--- STYLING LINKS ---*/
 a {
-    color: #8f0040;
-    text-decoration: none;
-}
+     color: #8f0040;
+     text-decoration: none;
+    }
 
 a:visited {
     color: #8f0040;
@@ -76,7 +76,7 @@ a:hover {
 }
 
 /*--- NAVIGATION ---*/
-nav {
+  nav {
     position: fixed;
     top: 0;
     left: 0;
@@ -86,7 +86,7 @@ nav {
     padding: 1em 0;
     font-size: 0.75em;
 }
-nav ul {
+ nav ul {
     text-align: center;
     text-transform: uppercase;
     letter-spacing: 1px
