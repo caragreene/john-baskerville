@@ -1,0 +1,68 @@
+/*----CSS reset *---/
+
+* {
+   padding: 0;
+   margin: 0;
+   font-size: 80%;
+   line-height: 1em;
+}
+
+/*------ MAIN STYLING ----*/
+body {
+     width: 100%;
+     max-width: 600px;
+     margin: auto;
+     background: black
+     color: black;
+     font-family: 'lato', sans-serif;
+     font-size: 10%:
+     text-align:center;
+     font-weight: normal;
+
+}
+
+/*--- TYPOGRAPHY ----*/
+h1  {
+     font-weight: normal;
+     color: black;
+     text-align: center;
+     font-family: 'libre Baskerville', serif;
+     font-size: 2em;
+   }
+
+
+ h2 {
+  font-weight: normal;
+  color: black;
+  text-align:center;
+  font-family: 'libre Baskerville', serif;
+  font-size: 1.999em
+  margin: 5em 0 1 em 0;
+}
+
+p, blockquote {
+   margin-bottom: 1.5em;
+   line-height: 1.2;
+}
+
+
+h1 {
+   font-size: 2em;
+   margin-top: 2em;
+   text-align: center;
+   font-style:  'Libre Baskerville', serif;
+ }
+
+
+blockquote {
+     font-family: 'Libre Baskerville', serif;
+     font-size: 1.3em;
+     color: grey;
+     hanging-punctuation: first;
+     text-indent: -0.42em;
+}
+blockquote cite {
+    font-size: 0.75em;
+    color: grey;
+    font-family: 'Lato', sans-serif;
+ }
