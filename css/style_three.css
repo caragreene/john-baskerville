@@ -6,6 +6,48 @@
    font-size: 100%;
    line-height: 1em;
 }
+*--- NAVIGATION ---*/
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin: 0;
+    width: 100%;
+    background-color: #8f0040;
+    padding: 1em 0;
+    font-size: 0.75em;
+}
+nav ul {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1px
+}
+
+nav ul li {
+    display: inline;
+    margin: 20px;
+    background: none;
+}
+
+nav a {
+    color: #fdfdfd
+}
+
+nav a:visited {
+    color: #fdfdfd
+}
+
+nav a:hover {
+    border-bottom: none;
+    color: #fc8ebf;
+    transition: all 0.3s ease-in-out;
+}
+
+
+
+
+
+
 
 /*------ MAIN STYLING ----*/
 body {
@@ -105,7 +147,7 @@ nav {
     left: 0;
     margin: 0;
     width: 100%;
-    background-color: #8f0040;
+    background color: #8f0040;
     padding: 1em 0;
     font-size: 0.75em;
 }
@@ -136,8 +178,37 @@ nav a:hover {
 }
 
 
+/*---- STYLING TABLE----*/
+table {
+  margin: auto;
+  display; table;
+  border-collapse: collapse;
+  border-spacing: 2px
+  margin-bottom: 2em
+  width: 100%
 
+}
 
+caption {
+  margin: 1.5em 0;
+  text-transform: uppercase;
+
+}
+th {
+  color: #fdfdfd;
+  text-transform: uppercase;
+  font-weight: normal;
+  text-align: left;
+  background: #8F0040
+}
+th, td {
+  padding: 0.6em
+}
+
+table, td {
+  background: #f9e7ef;
+  border: 2px solid#fdfdfd
+}
 
 
 
