@@ -6,7 +6,7 @@ Adding my first proper web page marking up some plain text with HTML5
 
 [Version 2](https://caragreene.github.io/john-baskerville/john_baskerville_version2.html)
 
-[Version 3](https://caragreene.githib.io/john-baskerville/john_baskerville_version_three.html)
+[Version 3](https://caragreene.githib.io/john-baskerville/john_baskerville-version_three.html)
 
 [Version 4](https://caragreene.githib.io/john-baskerville/john_baskerville_version_4.html)
 
