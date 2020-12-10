@@ -5,9 +5,11 @@ John Baskerville
 Adding my first proper web page marking up some plain text with HTML5
 
 [Version 2](https://caragreene.github.io/john-baskerville/john_baskerville_version2.html)
+
 Adding css styling
 
 [Version 3](https://caragreene.githib.io/john-baskerville/john_baskerville-I version_three.html)
+
 Adding font
 
 [Version 4](https://caragreene.githib.io/john-baskerville/john_baskerville_version_4.html)
