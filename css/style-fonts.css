@@ -22,6 +22,8 @@ body {
 }
 
 /*--- TYPOGRAPHY ----*/
+h1, h2, h3, blockqoute, dropcap {color: rgb(0, 177, 160)}
+
 h1  {
      font-weight: normal;
      color: black;
@@ -66,3 +68,59 @@ blockquote cite {
     color: grey;
     font-family: 'Lato', sans-serif;
  }
+
+ intro { font-size: 1.25em; }
+
+ .dropcap {
+        float: left;
+        font-size: 4.7em;
+        line-height: 0.5em;
+        margin-right: 0px;
+ }
+
+ /*-------- SETTING UP STYLING FOR VERSION 1 -----*/
+    .version1 {
+      padding-top: 50px;
+      font-family: 'Libre Baskerville', serif;
+    }
+    .version1 .intro {padding-bottom: 1em;}
+    .version1 blockqoute {line-height: 1.4}
+    .version1 h2 {font-family: 'Libre Baskerville', serif;}
+
+    /*--------SETTING UP STYLING FOR VERSION 2-------*/
+
+    .version2 {font-family: 'Open Sans', sans-serif;}
+
+    .introcaps {
+      text-transform: uppercase;
+    }
+    .version2 cite {
+      font-style: normal;
+      text-transform: uppercase;
+    }
+    .version2 p+p {margin-bottom: -1em}
+
+    .version2 p+p+p {
+      text-indent:1.5em;
+    }
+
+
+.version3 {font-family: 'Open Sans-serif';}
+.version3 h1, h2, h3, blockquote {font-family: 'IBM Plex Serif', serif;}
+
+
+
+.version h2 {font-family: 'Open Sans', sans-serif;}
+selection blockquote {font-family: 'Libre Baskerville', serif;}
+.version2 h3 {font-family: 'Open Sans', sans-serif;}
+
+
+hr {
+  margin: 100px 0;
+  height: 1px;
+  background-color:rgb(13, 121, 110);
+  color:rbg(13, 121, 110);
+  border: 0 none;
+}
+
+.version2 blockquote {font-family: 'Open Sans', sans-serif;}
