@@ -10,8 +10,8 @@ Adding css styling
 [Version 3](https://caragreene.githib.io/john-baskerville/john_baskerville-I version_three.html)
 Adding font
 
-[Version 4](https://caragreene.githib.io/john-baskerville/john_baskerville_version_4.html
-  Adding images and table
+[Version 4](https://caragreene.githib.io/john-baskerville/john_baskerville_version_4.html)
+Adding images and table
 
 
 History of Type
