@@ -19,7 +19,7 @@ Adding images and table
 
 History of Type
 ===============
-[Version 1](https://caragreene.github.io/john-baskerville/john_baskerville/history--one.html)
+[Version 1](https://caragreene.github.io/john-baskerville/history-one.html)
 Marking up some plain text with HTML5
 
 [Version 2](https://caragreene.github.io/john-baskerville/john_baskerville/history-two.html)
