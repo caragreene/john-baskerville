@@ -8,7 +8,7 @@ Adding my first proper web page marking up some plain text with HTML5
 *09 November 2020*
 Adding css styling
 
-[Version 3](https://caragreene.githib.io/john-baskerville/john_baskerville-I version_three.html)
+[Version 3](https://caragreene.githib.io/john-baskerville/john_baskerville_version_three.html)
 *16 November 2020*
 Adding font
 
