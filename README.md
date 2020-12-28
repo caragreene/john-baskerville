@@ -5,14 +5,15 @@ John Baskerville
 Adding my first proper web page marking up some plain text with HTML5
 
 [Version 2](https://caragreene.github.io/john-baskerville/john_baskerville_version2.html)
-
+*09 November 2020*
 Adding css styling
 
 [Version 3](https://caragreene.githib.io/john-baskerville/john_baskerville-I version_three.html)
-
+*16 November 2020*
 Adding font
 
 [Version 4](https://caragreene.githib.io/john-baskerville/john_baskerville_version_4.html)
+*23 November 2020*
 Adding images and table
 
 
@@ -29,7 +30,8 @@ Adding fonts
 
 [Version 4](ttps://caragreene.github.io/john-baskerville/john_baskerville/history-four.html)
 Adding images and table
-CSS EXCERISE
------------
 
+-----------
+CSS EXERCISE
+=============
 [Version 1](https://caragreene.github.io/john-baskerville/version1-font.html)
