@@ -22,13 +22,13 @@ History of Type
 [Version 1](https://caragreene.github.io/john-baskerville/history-one.html)
 Marking up some plain text with HTML5
 
-[Version 2](https://caragreene.github.io/john-baskerville/john_baskerville/history-two.html)
+[Version 2](https://caragreene.github.io/john-baskerville/history-two.html)
 Adding css styling, nav and links
 
-[Version 3](https://caragreene.github.io/john-baskerville/john_baskerville/history-three.html)
+[Version 3](https://caragreene.github.io/john-baskerville/history-three.html)
 Adding fonts
 
-[Version 4](https://caragreene.github.io/john-baskerville/john_baskerville/history-four.html)
+[Version 4](https://caragreene.github.io/john-baskerville/history-four.html)
 Adding images and table
 
 -----------
