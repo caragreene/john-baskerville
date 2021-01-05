@@ -13,7 +13,7 @@ nav {
     left: 0;
     margin: 0;
     width: 100%;
-    background-color: #8f0040;
+    background-color: #8D8D8D;
     padding: 1em 0;
     font-size: 0.75em;
 }
@@ -57,6 +57,7 @@ body {
      background: #fdfdfd
      color: #333;
      font-family: 'lato', sans-serif;
+     text-align: center;
 
 }
 
@@ -72,6 +73,7 @@ h1, h2 {
 p, blockquote {
    margin-bottom: 1.5em;
    line-height: 1.4;
+   text-align: left;
 }
 
 h1,h2,nav,blockquote, footer{
@@ -173,7 +175,7 @@ nav a:visited {
 
 nav a:hover {
     border-bottom: none;
-    color: #fc8ebf;
+    color: #8f0040;
     transition: all 0.3s ease-in-out;
 }
 
